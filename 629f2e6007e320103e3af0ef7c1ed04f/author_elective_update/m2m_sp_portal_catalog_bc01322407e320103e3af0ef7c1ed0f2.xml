@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sp_portal display_value="テスト_ポータルGit">c990fae007e320103e3af0ef7c1ed0c6</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 05:10:52</sys_created_on>
+        <sys_id>bc01322407e320103e3af0ef7c1ed0f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>サービスカタログ.テスト_ポータルGit</sys_name>
+        <sys_package display_value="test_sp_global2" source="629f2e6007e320103e3af0ef7c1ed04f">629f2e6007e320103e3af0ef7c1ed04f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_sp_global2">629f2e6007e320103e3af0ef7c1ed04f</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_bc01322407e320103e3af0ef7c1ed0f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 05:10:52</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="test_sp_global2">629f2e6007e320103e3af0ef7c1ed04f</application>
+        <file_path/>
+        <instance_id>4d6422fedb24b70049eac59705961945</instance_id>
+        <instance_name>dev78976</instance_name>
+        <name>m2m_sp_portal_catalog_bc01322407e320103e3af0ef7c1ed0f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="サービスカタログ">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sp_portal display_value="テスト_ポータルGit">c990fae007e320103e3af0ef7c1ed0c6</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-13 05:10:52</sys_created_on><sys_id>bc01322407e320103e3af0ef7c1ed0f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>サービスカタログ.テスト_ポータルGit</sys_name><sys_package display_value="test_sp_global2" source="629f2e6007e320103e3af0ef7c1ed04f">629f2e6007e320103e3af0ef7c1ed04f</sys_package><sys_policy/><sys_scope display_value="test_sp_global2">629f2e6007e320103e3af0ef7c1ed04f</sys_scope><sys_update_name>m2m_sp_portal_catalog_bc01322407e320103e3af0ef7c1ed0f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-13 05:10:52</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>-1847237482</payload_hash>
+        <record_name>サービスカタログ.テスト_ポータルGit</record_name>
+        <reverted_from/>
+        <source>f6ab45c67106101091f9db5cf8a372fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 05:10:52</sys_created_on>
+        <sys_id>0d01322407e320103e3af0ef7c1ed0f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178c9a3b5870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 05:10:52</sys_updated_on>
+        <type>ポータル カタログ</type>
+        <update_guid>34013224fee32010cdece7a307d949f4</update_guid>
+        <update_guid_history>34013224fee32010cdece7a307d949f4:-1847237482</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="サービスカタログ.テスト_ポータルGit">b5037a6407e320103e3af0ef7c1ed0c3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 05:19:40</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>4abc5722c321413891cb1d6e28998bc4</sys_id>
+        <sys_metadata>bc01322407e320103e3af0ef7c1ed0f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>サービスカタログ.テスト_ポータルGit</sys_name>
+        <sys_package display_value="test_sp_global2" source="629f2e6007e320103e3af0ef7c1ed04f">629f2e6007e320103e3af0ef7c1ed04f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="test_sp_global2">629f2e6007e320103e3af0ef7c1ed04f</sys_scope>
+        <sys_scope_delete display_value="">40933068bd214bbe980b27338580cfe4</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_bc01322407e320103e3af0ef7c1ed0f2</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_bc01322407e320103e3af0ef7c1ed0f2">0d01322407e320103e3af0ef7c1ed0f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 05:19:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
